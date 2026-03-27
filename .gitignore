@@ -1,0 +1,12 @@
+# 컴파일 결과물
+out/
+*.class
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
